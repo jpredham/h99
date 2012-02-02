@@ -1,5 +1,8 @@
 Problem         On Your Own?    Notes
 -------------------------------------------------------------------------------------------------------------------
+
 1               no              forgot that putting a:b matches b to an array not an element, use recusrsion stupid
+
 2               yes             used reucrsion like the last one, but the terminating case has two elements
-               
+
+3               part            didn't handle index bounds. Use recursion as a way to whittle down an array, counting each iteration
