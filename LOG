@@ -6,3 +6,6 @@ Problem         On Your Own?    Notes
 2               yes             used reucrsion like the last one, but the terminating case has two elements
 
 3               part            didn't handle index bounds. Use recursion as a way to whittle down an array, counting each iteration
+
+4               yes             solved two ways - just a wrapper for length. recursively added up each element
+
