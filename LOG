@@ -5,7 +5,11 @@ Problem         On Your Own?    Notes
 
 2               yes             used reucrsion like the last one, but the terminating case has two elements
 
-3               part            didn't handle index bounds. Use recursion as a way to whittle down an array, counting each iteration
+3               partial         didn't handle index bounds. Use recursion as a way to whittle down an array, counting each iteration
 
 4               yes             solved two ways - just a wrapper for length. recursively added up each element
+
+5               partial         first way on own, second way with more efficient list concat on own
+
+6               yes             solved on my own, wrote my own list equality method for practice, used style suggestion from hlint
 
