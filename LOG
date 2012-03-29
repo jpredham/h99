@@ -14,3 +14,5 @@ Problem         On Your Own?    Notes
 6               yes             solved on my own, wrote my own list equality method for practice, used style suggestion from hlint
 
 7               no              didn't catch the type class trick
+
+8               yes             solved on my own, using guards, knew to use the Eq typeclass since I was comparing
