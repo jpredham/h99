@@ -1,18 +1,12 @@
 Problem         On Your Own?    Notes
 -------------------------------------------------------------------------------------------------------------------
-
 1               no              forgot that putting a:b matches b to an array not an element, use recusrsion stupid
-
 2               yes             used reucrsion like the last one, but the terminating case has two elements
-
 3               partial         didn't handle index bounds. Use recursion as a way to whittle down an array, counting each iteration
-
 4               yes             solved two ways - just a wrapper for length. recursively added up each element
-
 5               partial         first way on own, second way with more efficient list concat on own
-
 6               yes             solved on my own, wrote my own list equality method for practice, used style suggestion from hlint
-
 7               no              didn't catch the type class trick
-
 8               yes             solved on my own, using guards, knew to use the Eq typeclass since I was comparing
+9               no              tricky, spent some time to review the answer and picked my favorite. **Review**
+10              partial         solved via list comprehension on own, needed help to use without higher order functions
